@@ -1,0 +1,28 @@
+{
+  "name": "vas-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "technology",
+    "solution",
+    "developers",
+    "IT",
+    "technologies",
+    "consultants"
+  ],
+  "author": "VAS Technology",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+}
