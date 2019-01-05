@@ -11,8 +11,29 @@ nav .brand-logo {
   color: #444;
 }
 
+.page-footer {
+  background-color: #2daadf;
+}
+
 p {
   line-height: 2rem;
+}
+
+.logo {
+  width: 80%;
+  padding-left: 10%;
+}
+
+.logo-footer {
+  width: 70%;
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  margin: 5px;
 }
 
 .sidenav-trigger {
